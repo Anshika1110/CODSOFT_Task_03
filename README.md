@@ -44,3 +44,7 @@ Feel free to contribute to this project by submitting issues or pull requests. W
 License:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+Author:
+
+Anshika Pandey
